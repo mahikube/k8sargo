@@ -22,7 +22,7 @@ spec:
 ---
 apiVersion: v1
 kind: Service
-meatadata: 
+metadata: 
   name: app1-service
   namespace: dev
 spec: 
